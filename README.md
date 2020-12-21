@@ -44,6 +44,7 @@ Table 2: Equations Used Continue
 Specifications for the controller: 
 <br>
 a. %OS =< 5%
+<br>
 b. Ts < 3.5 sec
 
 # 4- CONTROLLER IMPLEMENTATION
