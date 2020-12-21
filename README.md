@@ -77,6 +77,15 @@ After the amplitude was calculated from Matlab next did some hand calculations t
 3.1.2) MATLAB code for PID in system
 <br>
 <img width="470" alt="MatlabForPID" src="https://user-images.githubusercontent.com/76410573/102729128-3be87980-42e4-11eb-8114-865a35de4977.png">
+<br> <br>
+3.2) Simulink
+<br>
+<br>
+3.2.1) Mathematical Model
+<br>
+In this project, a  Lagrangian  mathematical approach was used to apprehend the dynamic of this system. The kinetic energy principle was also used to expand the equation of motion. A derivation of the kinetic equation of the ball, beam, and the potential  energy of the system enabled the team to express the equation of motion from the Langrangian of this system. 
+<br>
+
 
 
 # 4- CONTROLLER IMPLEMENTATION
