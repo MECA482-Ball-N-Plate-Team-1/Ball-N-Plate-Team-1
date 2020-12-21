@@ -123,6 +123,7 @@ Figure 4. Ball and Plate Simulink Model
 <br>
 Figure 5. Inside Ball and Plate Simulink Mode (for calibration)
 <br>
+<br>
 <img width="470" alt="Figure5InsideBallandPlateSimulinkMode(for calibration)" src="https://user-images.githubusercontent.com/76410573/102733023-09914900-42f1-11eb-842d-5ec34c5ff5b9.png">
 <br>
 <br>
