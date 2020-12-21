@@ -55,7 +55,8 @@ The following equation was used to calculate the overshoot percentage from the g
 3.1.1) Checking Step Response
 <br>
 3.1.1a) System is Unstable
-https://user-images.githubusercontent.com/76410573/102728719-4275f180-42e2-11eb-8d1d-565fe2e7d298.png
+<br>
+<img width="470" alt="StepResponseofTransferFunction" src="https://user-images.githubusercontent.com/76410573/102728719-4275f180-42e2-11eb-8d1d-565fe2e7d298.png">
 
 # 4- CONTROLLER IMPLEMENTATION
 
