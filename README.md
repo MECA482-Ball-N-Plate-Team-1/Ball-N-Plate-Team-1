@@ -88,7 +88,13 @@ In this project, a  Lagrangian  mathematical approach was used to apprehend the 
 <img width="470" alt="Equation10" src="https://user-images.githubusercontent.com/76410573/102729387-6b4bb600-42e5-11eb-8c80-7025e343df97.png">
 <br>
 Whereas L represents the Lagrangian, K represents the kinetic energy and U represents the potential energy.  Considering the ball and the plate are incontact all  the time; the equation of motion derived from L  will become:
-
+<br>
+<img width="470" alt="Equation10" src="https://user-images.githubusercontent.com/76410573/102729596-2bd19980-42e6-11eb-95a3-be72c5f55cc7.png">
+Considering a one dimensional ball and beam system, the variables used are defined below:
+<br><br>
+a. Ball and plate sub-system Parameters:
+<br>
+<br>
 
 # 4- CONTROLLER IMPLEMENTATION
 
