@@ -99,6 +99,10 @@ a. Ball and plate sub-system Parameters:
 <img width="470" alt="Table3ModelParameters" src="https://user-images.githubusercontent.com/76410573/102730040-0d6c9d80-42e8-11eb-9bd6-bee86d1564f1.png">
 <br>
 Table 3: Model Parameters
+<br>
+<br>
+In this modeling, friction will be neglected, and the team will assume that no slippage will occur between the ball and the plate. The motion of the ball will be represented using these following equations:
+
 
 # 4- CONTROLLER IMPLEMENTATION
 
