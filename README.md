@@ -96,7 +96,7 @@ Considering a one dimensional ball and beam system, the variables used are defin
 a. Ball and plate sub-system Parameters:
 <br>
 <br>
-<img width="470" alt="Table3ModelParameters" src="https://user-images.githubusercontent.com/76410573/102729937-92a38280-42e7-11eb-9f89-5d920a1e4fd8.png">
+<img width="470" alt="Table3ModelParameters" src="https://user-images.githubusercontent.com/76410573/102730040-0d6c9d80-42e8-11eb-9bd6-bee86d1564f1.png">
 <br>
 Table 3: Model Parameters
 
