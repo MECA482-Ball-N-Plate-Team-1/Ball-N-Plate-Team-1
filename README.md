@@ -114,7 +114,7 @@ MatLab Simulink was used to simulate the control system. The block diagram was c
 <br>
 In figure 4, the simulink model represents the system with the addition of figure 5, which is used to calibrate the system. This provides feedback to the PID controller, and the output of the PID controller becomes the output for out.theta and out.theta1 . Later, once the system has been calibrated, the Ball and Plate Model can be removed, and the system will work as shown in figure 6.
 
-
+<img width="470" alt="Equations12-15" src="https://user-images.githubusercontent.com/76410573/102730320-33467200-42e9-11eb-82a6-b8c245448ec1.png">
 
 # 4- CONTROLLER IMPLEMENTATION
 
