@@ -53,7 +53,7 @@ The following equation was used to calculate the overshoot percentage from the g
 <br>
 <br>
 3.1.1) Checking Step Response
-<br>
+<br><br>
 3.1.1a) System is Unstable
 <br>
 <br>
@@ -70,6 +70,10 @@ Figure 2. Step Response of Transfer Function
 <br>
 <br>
 Figure 3: Step Response Implementing PID Controller
+<br>
+<br>
+After the amplitude was calculated from Matlab next did some hand calculations to find the % Overshoot. As shown in figure 3, the % Overshoot came out to be %OS = 2%. Also settling time was around 1.5 seconds, which is a lot less than the required 3.5 seconds.
+
 
 # 4- CONTROLLER IMPLEMENTATION
 
