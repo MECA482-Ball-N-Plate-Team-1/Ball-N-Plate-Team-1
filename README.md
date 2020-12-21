@@ -103,6 +103,7 @@ Table 3: Model Parameters
 <br>
 In this modeling, friction will be neglected, and the team will assume that no slippage will occur between the ball and the plate. The motion of the ball will be represented using these following equations:
 <br>
+<br>
 <img width="470" alt="Equations12-15" src="https://user-images.githubusercontent.com/76410573/102730139-6e947100-42e8-11eb-912a-b1382ca80a36.png">
 
 # 4- CONTROLLER IMPLEMENTATION
