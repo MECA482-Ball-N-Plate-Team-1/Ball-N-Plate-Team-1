@@ -85,7 +85,9 @@ After the amplitude was calculated from Matlab next did some hand calculations t
 <br>
 In this project, a  Lagrangian  mathematical approach was used to apprehend the dynamic of this system. The kinetic energy principle was also used to expand the equation of motion. A derivation of the kinetic equation of the ball, beam, and the potential  energy of the system enabled the team to express the equation of motion from the Langrangian of this system. 
 <br>
-
+<img width="470" alt="Equation10" src="https://user-images.githubusercontent.com/76410573/102729387-6b4bb600-42e5-11eb-8c80-7025e343df97.png">
+<br>
+Whereas L represents the Lagrangian, K represents the kinetic energy and U represents the potential energy.  Considering the ball and the plate are incontact all  the time; the equation of motion derived from L  will become:
 
 
 # 4- CONTROLLER IMPLEMENTATION
