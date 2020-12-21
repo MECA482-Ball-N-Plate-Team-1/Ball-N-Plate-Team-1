@@ -57,6 +57,15 @@ The following equation was used to calculate the overshoot percentage from the g
 3.1.1a) System is Unstable
 <br>
 <img width="470" alt="StepResponseofTransferFunction" src="https://user-images.githubusercontent.com/76410573/102728719-4275f180-42e2-11eb-8d1d-565fe2e7d298.png">
+<br>
+Figure 2. Step Response of Transfer Function
+<br>
+<br>
+3.1.1b) PID Implementation
+<br>
+<img width="470" alt="StepResponseImplementingPIDController" src="https://user-images.githubusercontent.com/76410573/102728880-04c59880-42e3-11eb-80bb-a3b8fdc4d214.png">
+<br>
+Figure 3: Step Response Implementing PID Controller
 
 # 4- CONTROLLER IMPLEMENTATION
 
