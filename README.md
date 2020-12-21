@@ -38,7 +38,11 @@ Table 2: Equations Used Continue
 
 3.1) PID Controller
   <br>
-    The design that was chosen was to use a 5% overshoot and 3.5 seconds of settling time. We decided to use a PID controller instead of a lead compensation controller for the reason the PID controller will rectify the response time in the unstable system. In Figure the plate will get a step response that the ball will fall off the plate. Then the PID controller will take the step response and calculate the settling time in figure , which will serve for the motors to adjust the plate before the ball has reached the position. 
+    The design that was chosen was to use a 5% overshoot and 3.5 seconds of settling time. We decided to use a PID controller instead of a lead compensation controller for the reason the PID controller will rectify the response time in the unstable system. In Figure the plate will get a step response that the ball will fall off the plate. Then the PID controller will take the step response and calculate the settling time in figure , which will serve for the motors to adjust the plate before the ball has reached the position.
+<br> 
+Specifications for the controller: 
+a. %OS =< 5%
+b. Ts < 3.5 sec
 
 # 4- CONTROLLER IMPLEMENTATION
 
