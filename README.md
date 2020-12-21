@@ -31,7 +31,11 @@ Table 2: Equations Used Continue
    a. Transfer function for 1 servo where (s) is the rotation of the motor in rads, and the output is R(s) = ball position.
 </header>
 <img width="470" alt="equations8" src="https://user-images.githubusercontent.com/76410573/102728117-c6c67580-42de-11eb-85e0-9a8bb302fb3f.png">
-Test
+<header>
+  3.) Controller Design and Simulations 
+    3.1) PID Controller
+    The design that was chosen was to use a 5% overshoot and 3.5 seconds of settling time. We decided to use a PID controller instead of a lead compensation controller for the reason the PID controller will rectify the response time in the unstable system. In Figure the plate will get a step response that the ball will fall off the plate. Then the PID controller will take the step response and calculate the settling time in figure , which will serve for the motors to adjust the plate before the ball has reached the position. 
+
 
 # 2- SYSTEM MODELING
 
