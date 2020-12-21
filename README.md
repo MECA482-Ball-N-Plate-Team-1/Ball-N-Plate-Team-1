@@ -105,6 +105,16 @@ In this modeling, friction will be neglected, and the team will assume that no s
 <br>
 <br>
 <img width="470" alt="Equations12-15" src="https://user-images.githubusercontent.com/76410573/102730139-6e947100-42e8-11eb-912a-b1382ca80a36.png">
+<br>
+<br>
+b. Simulink Models
+<br>
+MatLab Simulink was used to simulate the control system. The block diagram was created on simulink  to illustrate the ball’s motion. the output will come out as a step response simulation of the system.
+<br>
+<br>
+In figure 4, the simulink model represents the system with the addition of figure 5, which is used to calibrate the system. This provides feedback to the PID controller, and the output of the PID controller becomes the output for out.theta and out.theta1 . Later, once the system has been calibrated, the Ball and Plate Model can be removed, and the system will work as shown in figure 6.
+
+
 
 # 4- CONTROLLER IMPLEMENTATION
 
