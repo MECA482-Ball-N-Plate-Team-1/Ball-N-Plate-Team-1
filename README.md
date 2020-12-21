@@ -50,6 +50,12 @@ b. Ts < 3.5 sec
 <br>
 The following equation was used to calculate the overshoot percentage from the graph in figure:
 <img width="470" alt="equation9" src="https://user-images.githubusercontent.com/76410573/102728542-5a00aa80-42e1-11eb-9936-5002d1185d9c.png">
+<br>
+<br>
+3.1.1) Checking Step Response
+<br>
+3.1.1a) System is Unstable
+https://user-images.githubusercontent.com/76410573/102728719-4275f180-42e2-11eb-8d1d-565fe2e7d298.png
 
 # 4- CONTROLLER IMPLEMENTATION
 
