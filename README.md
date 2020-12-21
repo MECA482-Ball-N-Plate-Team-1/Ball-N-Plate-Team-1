@@ -75,7 +75,7 @@ Figure 3: Step Response Implementing PID Controller
 After the amplitude was calculated from Matlab next did some hand calculations to find the % Overshoot. As shown in figure 3, the % Overshoot came out to be %OS = 2%. Also settling time was around 1.5 seconds, which is a lot less than the required 3.5 seconds.
 <br><br>
 3.1.2) MATLAB code for PID in system
-<img width="470" alt="MatlabForPID" src="https://user-images.githubusercontent.com/76410573/102729128-3be87980-42e4-11eb-8114-865a35de4977.png
+<img width="470" alt="MatlabForPID" src="https://user-images.githubusercontent.com/76410573/102729128-3be87980-42e4-11eb-8114-865a35de4977.png">
 
 
 # 4- CONTROLLER IMPLEMENTATION
